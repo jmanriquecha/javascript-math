@@ -9,5 +9,8 @@
   },
   "keywords": [],
   "author": "Jorge Manrique georgemanc.28@gmail.com",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "gh-pages": "^6.0.0"
+  }
 }
